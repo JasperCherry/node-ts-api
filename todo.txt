@@ -1,0 +1,10 @@
+create git repo
+
+start node project with TS and express
+
+make basic application with sendiment api to categorize input text
+
+api for getting control data
+
+
+try to make it work with aws lambda
